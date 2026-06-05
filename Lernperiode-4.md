@@ -22,21 +22,29 @@ Meine Ziele sind: am ende einen guten Informatik schnitt haben.
 ### Planung 24.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 
-- [ ] 
-- [X] 
+- [x] Ich werde heute sicher BIO lernen.
+- [x] und denn ARDUINO anschauen vieleicht aber keine aufgabe machen
+- [X] und C# Session zuhöhren
 
-(Heute habe ich... (50-100 Wörter))
+Reflexion:
+Reflexion heute. ich habe BIO gelernt und denn ARDUINO angeschaut aber keine aufgabe oder irgendetwas gelöst. ich habe auch zu der Session zugehöhrt um mehr zu lernen.
 
-
-### Planung 23.08.2024
+### Planung 08.05.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Ich werde heute ein neues kleines c# projekt starten
+- [x] ich werde auch mit AI eine C# Aufgabe erstellen und dann lösen
+- [X] Und im Modul am mitwoch weiter arbeiten
 
-(Heute habe ich... (50-100 Wörter))
+Reflexion:
+Ich habe heute sogar recht gut gearbeitet, ich habe ein kleines C# projekt gemacht und mit unity hub ein wenig weiter gemacht. ich habe unity hub wiedermal aufgemacht und wieder gelernt.
+
+### Planung 22.05.2026
+
+- [x] 
+- [x] 
+- [x] 
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
