@@ -51,6 +51,26 @@ ich habe alles gemacht was ich machen wollte. Ich habe mit Berksan und Arshayan 
 recht viel in der website weiter gemacht. Ich habe ein grid hinzugefügt und habe gelernt wie man das machen kann ich habe eine liste gemacht, ein Foto geändert
 und noch bei der Navigation zwei links gemacht die auf verschidene sachen auf der website gehen und dann denn hintergrund verändern.
 
+### Planung 29.05.2026
+3 bis 5 klar messbare Arbeitspakete.
 
-## Lernperiode Reflexion
+- [x] ich werde heute wieder an meiner webseite arbeiten 
+- [x] und noch mit powershell arbeiten, um das modul 122 besser zu verstehen 
+- [x] Ich will noch franz lernen
+
+Reflexion:
+Ich habe alles gemacht was ich in der plannung hatte und ich habe sehr gut gearbeitet und viel gelernt.
+
+### Planung 05.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [x] Ich werde heute mein Github verbeesern
+- [x] Ich werde alles in dieses Github tun 
+- [x] Und ich werde noch mit Powershell arbeiten weil ich es immer noch nicht genau verstehe
+
+Reflexion:
+Ich habe hier mein Github neu gemacht, wie man sehen kann, und ich habe alle letzten wochen hier rein getan und ich habe ein wenig neues mit Powershell gelernt, Forreach hab ich angeschaut. 
+Forreach ist Wenn jedes Element einer Liste oder eines Arrays verarbeitet werden soll.
+
+### Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
