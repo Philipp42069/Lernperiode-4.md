@@ -40,10 +40,16 @@ Reflexion:
 Ich habe heute sogar recht gut gearbeitet, ich habe ein kleines C# projekt gemacht und mit unity hub ein wenig weiter gemacht. ich habe unity hub wiedermal aufgemacht und wieder gelernt.
 
 ### Planung 22.05.2026
+3 bis 5 klar messbare Arbeitspakete.
 
-- [x] 
-- [x] 
-- [x] 
+- [x] ich werde heute die letzten Aufträge machen für die kanti
+- [x] Ich werde an der Website, die ich am dienstag machen musste, weiter arbeiten.
+- [x] Und noch am modul am mitwoch arbeiten.
+
+Reflexion:
+ich habe alles gemacht was ich machen wollte. Ich habe mit Berksan und Arshayan eine Partnerarbeit feritg gemacht und abgegeben und ich habe 
+recht viel in der website weiter gemacht. Ich habe ein grid hinzugefügt und habe gelernt wie man das machen kann ich habe eine liste gemacht, ein Foto geändert
+und noch bei der Navigation zwei links gemacht die auf verschidene sachen auf der website gehen und dann denn hintergrund verändern.
 
 
 ## Lernperiode Reflexion
