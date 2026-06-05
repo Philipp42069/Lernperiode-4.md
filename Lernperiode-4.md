@@ -1,30 +1,30 @@
-# Lern-Periode 1
+# Lern-Periode 4
 
-- Name: Exemplibus Exemplio
-- Zeitraum: 12.08.2024 bis 29.09.2024
+- Name: Philipp Bremgartner
+- Zeitraum: 24.04.2026 - 26.06.2026
 
 ## Grob-Planung
 
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Meine Noten sind gerade besser als letztes halb jahr mit zwei 5.5 und einem 4. Und ich denke das ich ende Jahr einen 5.0 schnitt haben soll, was ich sehr gut finde.
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Ich möchte das Github verbessern, das es richitg ist und sinn ergibt. Und ich will viel bei den anderen Modulen weiter arbeiten zb. HTML, CSS und Powershell um weiter zu kommen und gute Noten zu schreiben. Ich will auch dazwischen immer mal wieder ein C# Projekt machen das sehr klein ist aber mein Wissen weiter bringt.
 
 ### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+Ich will kleine C# Projekte machen.
 
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+Meine Ziele sind: am ende einen guten Informatik schnitt haben.
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
+### Planung 24.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] 
+- [ ] 
+- [X] 
 
 (Heute habe ich... (50-100 Wörter))
 
