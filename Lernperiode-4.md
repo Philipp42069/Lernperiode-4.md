@@ -70,7 +70,8 @@ Ich habe alles gemacht was ich in der plannung hatte und ich habe sehr gut gearb
 
 Reflexion:
 Ich habe hier mein Github neu gemacht, wie man sehen kann, und ich habe alle letzten wochen hier rein getan und ich habe ein wenig neues mit Powershell gelernt, Forreach hab ich angeschaut. 
-Forreach ist Wenn jedes Element einer Liste oder eines Arrays verarbeitet werden soll.
+Forreach ist Wenn jedes Element einer Liste oder eines Arrays verarbeitet werden soll. Ich finde Powershell ist immer noch sehr kompliziert aber ich kann es sicher besser als vor einer woche.
+
 
 ### Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
