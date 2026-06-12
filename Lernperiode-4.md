@@ -75,12 +75,20 @@ Forreach ist Wenn jedes Element einer Liste oder eines Arrays verarbeitet werden
 ### Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Ich werde die mail von meinem Haubtlehrer anschauen und gemäss den anforderungen mein GutHub verbessern (Tagesplanung für nächstes mal schon machen)
-- [] Nachdem werde ich an meiner Website arbeiten um für den Dienstag einen Vorsprung  zu haben.
-- [] Weil ich heute nur an meiner Website arbeiten möchte werde ich viele der Themen nochmals gut durchschauen wie zum beispiel: Grid, Links und weitere sachen.
+- [x] Ich werde die mail von meinem Haubtlehrer anschauen und gemäss den anforderungen mein GutHub verbessern (Tagesplanung für nächstes mal schon machen)
+- [x] Nachdem werde ich an meiner Website arbeiten um für den Dienstag einen Vorsprung  zu haben.
+- [x] Weil ich heute nur an meiner Website arbeiten möchte werde ich viele der Themen nochmals gut durchschauen wie zum beispiel: Grid, Links und weitere sachen.
 
 Reflexion: 
+Ich habe heute nicht so viel gearbeitet wie ich hab wollen aber ich habe trozdem ein wenig bei meiner Wesite gemacht und ich habe mein Wissen zu grid verbsert was ich dann auch gerade bei meiner Website benutz habe. Grid startet man mit display: grid und dann grid template collums oder rows. So das man die Wesite in Ein verschieden grosses Grid macht und dann zb. bei main muss man dann angeben wo es genau ist im grid. Irgendwie hat mir das schwierigkeiten gegeben aber ich verstehe es jetzt viel mehr. Ich will aber nächste Woche mehr und besser arbeiten.
 
 
+### Planung 19.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Ich will bei meiner Wesite alles noch fertig machen das ich am letzen tag alles habe 
+- [] Ich werde warscheindlich noch Powershell weiter machen also bei meinem Projekt
+- [] und ich werde noch für die kanti lernen 
+- []
 ### Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
