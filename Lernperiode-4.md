@@ -71,7 +71,16 @@ Ich habe alles gemacht was ich in der plannung hatte und ich habe sehr gut gearb
 Reflexion:
 Ich habe hier mein Github neu gemacht, wie man sehen kann, und ich habe alle letzten wochen hier rein getan und ich habe ein wenig neues mit Powershell gelernt, Forreach hab ich angeschaut. 
 Forreach ist Wenn jedes Element einer Liste oder eines Arrays verarbeitet werden soll. Ich finde Powershell ist immer noch sehr kompliziert aber ich kann es sicher besser als vor einer woche.
- 
+
+### Planung 12.06.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Ich werde die mail von meinem Haubtlehrer anschauen und gemäss den anforderungen mein GutHub verbessern (Tagesplanung für nächstes mal schon machen)
+- [] Nachdem werde ich an meiner Website arbeiten um für den Dienstag einen Vorsprung  zu haben.
+- [] Weil ich heute nur an meiner Website arbeiten möchte werde ich viele der Themen nochmals gut durchschauen wie zum beispiel: Grid, Links und weitere sachen.
+
+Reflexion: 
+
 
 ### Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
