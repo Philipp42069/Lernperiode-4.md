@@ -19,7 +19,7 @@ Meine Ziele sind: am ende einen guten Informatik schnitt haben.
 
 ## Tagesplanungen
 
-### Planung 24.06.2026
+### Planung 24.04.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Ich werde heute sicher BIO lernen.
