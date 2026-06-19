@@ -86,9 +86,9 @@ Ich habe heute nicht so viel gearbeitet wie ich hab wollen aber ich habe trozdem
 ### Planung 19.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Ich will bei meiner Wesite alles noch fertig machen das ich am letzen tag alles habe 
-- [] Ich werde warscheindlich noch Powershell weiter machen also bei meinem Projekt
-- [] und ich werde noch für die kanti lernen
+- [ ] Ich will bei meiner Wesite alles noch fertig machen das ich am letzen tag alles habe 
+- [ ] Ich werde warscheindlich noch Powershell weiter machen also bei meinem Projekt
+- [ ] und ich werde noch für die kanti lernen
   
 ### Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
