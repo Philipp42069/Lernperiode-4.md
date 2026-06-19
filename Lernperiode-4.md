@@ -93,7 +93,7 @@ Ich habe heute nicht so viel gearbeitet wie ich hab wollen aber ich habe trozdem
 Reflexion:
 Ich habe heute alle kleine Fehler in diesem GitHub behoben und ich hoffe das jetzt alles stimmt. 
 Ich habe auch noch viel bei meinem Powershell Projekt gearbeitet und zwar habe ich meine Code durch schaut, ob alles stimmt und ich habe noch an der Dokumentation gearbeitet. 
-Ich habe auch ganz wenig am meiner Website gearbeitet, ich habe bilder und text wieder neu geschrieben, weil ich letztes mal das sehr schnell gemacht habe und dann habe ich noch ganz wenig die positionen im grid verändert das es jetzt genau wie in meinem Mockup ist. Und Kanti habe ich nichts gemacht weil wir doch keine Hausaufgaben hatten wie erwartet.
+Ich habe auch ganz wenig am meiner Website gearbeitet, ich habe bilder und text wieder neu geschrieben, weil ich letztes mal das sehr schnell gemacht habe und dann habe ich noch ganz wenig die positionen im grid verändert das es jetzt genau wie in meinem Mockup ist. Und Kanti habe ich nichts gemacht weil wir doch keine Hausaufgaben hatten wie erwartet. 
 
 ### Planung 26.06.2026
 - [ ] Ich werde nächste Woche mein GitHub verbessern, wenn es noch Fehler hat. 
