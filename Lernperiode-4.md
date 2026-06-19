@@ -86,9 +86,19 @@ Ich habe heute nicht so viel gearbeitet wie ich hab wollen aber ich habe trozdem
 ### Planung 19.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ich will bei meiner Wesite alles noch fertig machen das ich am letzen tag alles habe 
-- [ ] Ich werde warscheindlich noch Powershell weiter machen also bei meinem Projekt
-- [ ] und ich werde noch für die kanti lernen
-  
+- [x] Ich will bei meiner Wesite alles noch fertig machen das ich am letzen tag alles habe 
+- [x] Ich werde warscheindlich noch Powershell weiter machen also bei meinem Projekt
+- [x] und ich werde noch für die kanti lernen
+
+Reflexion:
+Ich habe heute alle kleine Fehler in diesem GitHub behoben und ich hoffe das jetzt alles stimmt. 
+Ich habe auch noch viel bei meinem Powershell Projekt gearbeitet und zwar habe ich meine Code durch schaut, ob alles stimmt und ich habe noch an der Dokumentation gearbeitet. 
+Ich habe auch ganz wenig am meiner Website gearbeitet, ich habe bilder und text wieder neu geschrieben, weil ich letztes mal das sehr schnell gemacht habe und dann habe ich noch ganz wenig die positionen im grid verändert das es jetzt genau wie in meinem Mockup ist. Und Kanti habe ich nichts gemacht weil wir doch keine Hausaufgaben hatten wie erwartet.
+
+### Planung 26.06.2026
+- [ ] Ich werde nächste Woche mein GitHub verbessern, wenn es noch Fehler hat. 
+- [ ] Weil es fast Ferien ist werde ich kein neues Projekt anfangen aber noch mals alles durch schauen was wir dieses jahr hatten (C#, HTML, CSS, Powershell, ect..)
+- [ ] Und noch vieleicht Hausaufgaben für den Nachmittag wenn wir das haben
+      
 ### Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
