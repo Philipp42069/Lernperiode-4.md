@@ -97,8 +97,12 @@ Ich habe auch ganz wenig am meiner Website gearbeitet, ich habe bilder und text 
 
 ### Planung 26.06.2026
 - [x] Ich werde nächste Woche mein GitHub verbessern, wenn es noch Fehler hat. 
-- [ ] Weil es fast Ferien ist werde ich kein neues Projekt anfangen aber noch mals alles durch schauen was wir dieses jahr hatten (C#, HTML, CSS, Powershell, ect..)
+- [x] Weil es fast Ferien ist werde ich kein neues Projekt anfangen aber noch mals alles durch schauen was wir dieses jahr hatten (C#, HTML, CSS, Powershell, ect..)
 - [x] Und noch vieleicht Hausaufgaben für den Nachmittag wenn wir das haben
+
+Reflexion:
+Ich habe heute nicht viel gearbeitet weil es die letze Lektion vor den Ferien ist aber ich habe C# nochmals durchgelesen in dem ich viele Dokumente und Powerpoints durchgeschaut habe.
+Ich habe mein Git hub verbessert und ich habe alle hausaufgaben gemacht (weil es keine gab).
       
 ### Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich mein GitHub extrems verbessert und ich habe sogar viel mehr gearbeitet im gegensatz von den letzten lernperioden. Ich habe viel für meine Projekte bei den anderen Lehrer gemacht und noch meine Skills in anderen Themen verbessert aber ich habe sicher mein GitHub sehr verbessern. Und ich hatte sicher mehr spass als bei den Letzten Perioden. Ich hoffe ich kann so weiter machen und dann mehr Homeoffice in dem Zweitem jahr haben das wäre mir sehr wichtig.
