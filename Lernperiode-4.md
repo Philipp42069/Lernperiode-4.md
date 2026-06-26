@@ -96,9 +96,9 @@ Ich habe auch noch viel bei meinem Powershell Projekt gearbeitet und zwar habe i
 Ich habe auch ganz wenig am meiner Website gearbeitet, ich habe bilder und text wieder neu geschrieben, weil ich letztes mal das sehr schnell gemacht habe und dann habe ich noch ganz wenig die positionen im grid verändert das es jetzt genau wie in meinem Mockup ist. Und Kanti habe ich nichts gemacht weil wir doch keine Hausaufgaben hatten wie erwartet. 
 
 ### Planung 26.06.2026
-- [ ] Ich werde nächste Woche mein GitHub verbessern, wenn es noch Fehler hat. 
+- [x] Ich werde nächste Woche mein GitHub verbessern, wenn es noch Fehler hat. 
 - [ ] Weil es fast Ferien ist werde ich kein neues Projekt anfangen aber noch mals alles durch schauen was wir dieses jahr hatten (C#, HTML, CSS, Powershell, ect..)
-- [ ] Und noch vieleicht Hausaufgaben für den Nachmittag wenn wir das haben
+- [x] Und noch vieleicht Hausaufgaben für den Nachmittag wenn wir das haben
       
 ### Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
